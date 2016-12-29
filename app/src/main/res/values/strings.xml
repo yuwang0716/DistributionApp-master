@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">66配送</string>
+    <!--main-->
+    <string name="order">订单</string>
+    <string name="total">汇总</string>
+    <string name="mine">我的</string>
+
+    <!--订单-->
+    <array name="order_titles">
+        <item>抢单</item>
+        <item>待取货</item>
+        <item>配送中</item>
+        <item>更多</item>
+    </array>
+    <!--订单页面更多-->
+    <string name="finishorder">已完成订单</string>
+    <string name="loseefficacy">失效订单</string>
+
+</resources>
